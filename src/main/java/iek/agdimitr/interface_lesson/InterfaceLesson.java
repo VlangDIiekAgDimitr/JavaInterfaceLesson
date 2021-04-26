@@ -33,6 +33,5 @@ public class InterfaceLesson {
         System.out.println("Area of circle: "
                            + circle.area());
     }
-    
-    
+     
 }
